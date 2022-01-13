@@ -45,7 +45,7 @@ Please do not use normal terminals for heavy computing. Only terminals on dedica
 
 ## Standard tools (developed by others)
 
-A large number of tools is installed globally thus you just have to type in the same of your tool.
+A large number of tools is installed globally thus you just have to type the name of your tool into the terminal to use it.
 
 ### BWA-MEM
 
