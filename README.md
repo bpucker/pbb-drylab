@@ -68,4 +68,8 @@ A large number of tools is installed globally thus you just have to type the nam
 ### Trinity
 
 
+### Single cell RNA-seq (scRNA-seq)
+There is an excellent book about this topic: [Orchestrating Single Cell Analysis with Bioconductor](https://bioconductor.org/books/release/OSCA/)
+
+
 
