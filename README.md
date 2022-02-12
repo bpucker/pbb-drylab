@@ -47,6 +47,8 @@ Please do not use normal terminals for heavy computing. Only terminals on dedica
 
 A large number of tools is installed globally thus you just have to type the name of your tool into the terminal to use it.
 
+### FastQC / MultiQC
+
 ### BWA-MEM
 
 ### FastTree
