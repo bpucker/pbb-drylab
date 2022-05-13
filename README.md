@@ -1,5 +1,5 @@
 # pbb-drylab
-dry lab methods used by the group
+dry lab methods used by [@PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb)
 
 ## Introduction 
 
