@@ -1,6 +1,8 @@
 # pbb-drylab
 dry lab methods used by [@PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb)
 
+WARNING: Some of this content is not publicly available. If you are not a member of the PuckerLab, you might not be able to use it.
+
 ## Introduction 
 
 All scripts are available in /grp/pbb/scripts. Additional tools can be found in /grp/pbb/tools. Each member is encouraged to have a folder in /grp/pbb/members to make scripts available to the group. Please make sure that no large files are shared through this group volumen, because the size is rather small. Dedicated project volumes should be used for the storage and exchange of larger files.
