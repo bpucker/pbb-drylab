@@ -5,9 +5,7 @@ WARNING: Some of this content is not publicly available. If you are not a member
 
 ## Introduction 
 
-All scripts are available in /grp/pbb/scripts. Additional tools can be found in /grp/pbb/tools. Each member is encouraged to have a folder in /grp/pbb/members to make scripts available to the group. Please make sure that no large files are shared through this group volumen, because the size is rather small. Dedicated project volumes should be used for the storage and exchange of larger files.
-
-Please do not use normal terminals for heavy computing. Only terminals on dedicated compute nodes should be used for this purpose.
+All scripts are available in /grp/pbb/scripts. Additional tools can be found in /grp/pbb/tools. 
 
 
 ## Scripts (developed by group)
